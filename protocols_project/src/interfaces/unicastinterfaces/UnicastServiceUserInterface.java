@@ -2,5 +2,5 @@ package interfaces.unicastinterfaces;
 
 public interface UnicastServiceUserInterface {
 
-    public void UPDataReq(short destinationEntity, String message);
+    public void UPDataInd(short originEntity, String message);
 }
