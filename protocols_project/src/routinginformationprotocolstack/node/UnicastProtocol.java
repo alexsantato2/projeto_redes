@@ -1,4 +1,4 @@
-package RoutingInformationProtocolStack.Node;
+package routinginformationprotocolstack.node;
 
 import interfaces.unicastinterfaces.UnicastServiceInterface;
 
